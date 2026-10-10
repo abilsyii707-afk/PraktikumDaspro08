@@ -3,7 +3,7 @@ Nama  : Talitha Aurelia Salsabila
 NIM   : 264107060191
 Kelas : SIB-1E
 
- Hasil Uji Studi Kasus 2 oleh <Siti Azzarah>
+ Hasil Uji Studi Kasus 2 oleh <Siti Azzarah.>
 
 | No | Jenis Kegiatan | Jumlah Dokumen | Juara / Status PKM | Output Sesuai? |
 |----|----------------|----------------|--------------------|----------------|
