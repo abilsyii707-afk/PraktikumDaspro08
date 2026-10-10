@@ -10,3 +10,4 @@ Kelas : SIB-1E
 | 1  | BAKORMA        | 3              | Juara 1            | Ya             |
 | 2  | Mandiri        | 4              | 0 (Bukan Juara)    | Ya             |
 | 3  | PKM            | 4              | 1 (Lolos)          | Ya             |
+| 4  | Lainnya        | 4              |                    | Ya             |
